@@ -20,7 +20,7 @@ Application refers to Touch Grass - Digital Detox, the software program provided
 
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Touch Grass - Digital Detox.
 
-Country refers to: South Korea
+Country refers to: South Korea, USA
 
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
@@ -143,4 +143,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: [email protected]
+By email: yongjinlee0222@gmail.com
